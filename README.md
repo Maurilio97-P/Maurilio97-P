@@ -1,4 +1,3 @@
-[![MasterHead](https://i.imgur.com/CGrx7Eg.jpg)](https://i.imgur.com/CGrx7Eg.jpg)
 <h1 align="center">Hi 👋, I'm Maurilio Eduardo Patiño Pérez</h1>
 <h3 align="center">A dedicated mechatronics engineer from México</h3>
 <img align="right" alt="PID" width="400" src="https://i.imgur.com/N3SoWsq.gif">
