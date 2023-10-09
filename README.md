@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mauriliopatino97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauriliopatino97" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCLGiii_X3UzQe_fJH_CmQmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCLGiii_X3UzQe_fJH_CmQmw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCLGiii_X3UzQe_fJH_CmQmw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCLGiii_X3UzQe_fJH_CmQmw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
