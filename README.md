@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TwinCAT 3 and FANUC**
 
-- 📝 I regularly write notes at [https://mpatino-digital-garden.vercel.app/](https://mpatino-digital-garden.vercel.app/)
+- 📝 You can see some of my notes at [https://mpatino-digital-garden.vercel.app/](https://mpatino-digital-garden.vercel.app/)
 
 - 💬 Ask me about **PLC programming, microcontrollers and ABB robots**
 
