@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **PLC programming, microcontrollers and ABB robots**
 
-- 📫 How to reach me **maurilio.pp97@gmail.com**
+- 📫 How to reach me: **maurilio.pp97@gmail.com**
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/mauriliopatino97/overlay/1635473513351/single-media-viewer/?profileId=ACoAACSIkMYBEbQKu08I2pAvpCfv2YBN0GbT7go)
 
