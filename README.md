@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **maurilio.pp97@gmail.com**
 
-- 📄 Know about my experience, here is my [LinkedIn](https://www.linkedin.com/in/mauriliopatino97/overlay/1635473513351/single-media-viewer/?profileId=ACoAACSIkMYBEbQKu08I2pAvpCfv2YBN0GbT7go)
+- 📄 Find my CV [here](https://www.linkedin.com/in/mauriliopatino97/overlay/1635473513351/single-media-viewer/?profileId=ACoAACSIkMYBEbQKu08I2pAvpCfv2YBN0GbT7go)
 
 - ⚡ Fun fact **I like to play the Piano 🎹**
 
