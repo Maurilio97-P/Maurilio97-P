@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maurilio Eduardo Patiño Pérez</h1>
 <h3 align="center">A dedicated Mechatronics Engineer from México</h3>
-<img align="right" alt="PID" width="400" src="https://i.imgur.com/N3SoWsq.gif">
+<!--<img align="right" alt="PID" width="400" src="https://i.imgur.com/N3SoWsq.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maurilio97-p&label=Profile%20views&color=0e75b6&style=flat" alt="maurilio97-p" /> </p>
 
@@ -8,11 +8,11 @@
 
 - 📝 You can see some of my notes at [https://mpatino-digital-garden.vercel.app/](https://mpatino-digital-garden.vercel.app/)
 
-- 💬 Ask me about **PLC programming, microcontrollers and ABB robots**
+- 💬 Ask me about **PLC programming, microcontrollers, and ABB robots**
 
 - 📫 How to reach me: **maurilio.pp97@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/mauriliopatino97/overlay/1635473513351/single-media-viewer/?profileId=ACoAACSIkMYBEbQKu08I2pAvpCfv2YBN0GbT7go)
+- 📄 Know about my experience, here is my [LinkedIn](https://www.linkedin.com/in/mauriliopatino97/overlay/1635473513351/single-media-viewer/?profileId=ACoAACSIkMYBEbQKu08I2pAvpCfv2YBN0GbT7go)
 
 - ⚡ Fun fact **I like to play the Piano 🎹**
 
@@ -66,6 +66,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurilio97-p&show_icons=true&locale=en&layout=compact" alt="maurilio97-p" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maurilio97-p&show_icons=true&locale=en" alt="maurilio97-p" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maurilio97-p&show_icons=true&locale=en" alt="maurilio97-p" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurilio97-p&" alt="maurilio97-p" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurilio97-p&" alt="maurilio97-p" /></p>-->
