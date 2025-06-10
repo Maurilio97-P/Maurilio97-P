@@ -8,7 +8,7 @@
 
 - 📝 You can read some of my notes at [https://mpatino-digital-garden.vercel.app/](https://mpatino-digital-garden.vercel.app/)
 
-- 💬 Ask me about **PLC programming, microcontrollers, and ABB robots**
+- 💬 Ask me about **PLC programming, microcontrollers, and robotics**
 
 - 📫 How to reach me: **maurilio.pp97@gmail.com**
 
